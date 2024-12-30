@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <!-- Left Side: Logo -->
+    <a class="navbar-brand" href="#">
+      <img src="logo/logoipsum-346.svg" alt="Company Logo" style="height: 40px;" />
+    </a>
+
+    <!-- Right Side: Cart, Search, Language, Menu, Theme Toggle -->
+    <div class="d-none d-lg-flex align-items-center gap-3">
+      <button class="btn btn-outline-secondary">Cart</button>
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Search"
+        style="width: 150px;"
+      />
+      <select class="form-select" style="width: auto;">
+        <option value="en">EN</option>
+        <option value="fr">FR</option>
+        <option value="es">ES</option>
+      </select>
+      <button class="btn btn-outline-secondary">Menu</button>
+      <button class="btn btn-dark">🌙</button>
+    </div>
+
+    <!-- Mobile Size: Toggle Button -->
+    <button
+      class="btn btn-dark d-lg-none"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#mobileNavbar"
+      aria-controls="mobileNavbar"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      🌙
+    </button>
+  </div>
+</nav>
+
+<!-- Bottom Navbar for Mobile -->
+<div
+  class="d-lg-none fixed-bottom bg-light d-flex justify-content-around p-2 border-top"
+>
+  <button class="btn btn-outline-secondary">Cart</button>
+  <button class="btn btn-outline-secondary">🔍</button>
+  <button class="btn btn-outline-secondary">🌍</button>
+  <button class="btn btn-outline-secondary">☰</button>
+</div>
+
