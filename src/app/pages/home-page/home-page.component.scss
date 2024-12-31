@@ -71,7 +71,6 @@
     z-index: 2;
   }
 
-
   #hero-first h1 {
     font-size: 0.9rem;
 
@@ -85,7 +84,6 @@
 
     z-index: 2;
   }
-
 
   #hero-first button {
     background-color: black;
@@ -116,9 +114,19 @@
   }
   #hero-eighth {
     grid-area: footer;
-    // border: 5px solid blue;
-
+    display: flex; /* Center the button within the footer */
+    align-items: center;
+    justify-content: center;
+    padding: 1rem; /* Optional: Adjust padding for spacing */
     z-index: 2;
+    visibility: hidden;
+  }
+  .menu-belt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: visible;
+    height: 40vh;
   }
 }
 
@@ -215,7 +223,7 @@
 
     display: flex;
     // justify-content: center;
-    align-items: start; 
+    align-items: start;
 
     z-index: 2;
   }
@@ -230,8 +238,14 @@
   }
   #hero-eighth {
     grid-area: footer;
-    // border: 5px solid blue;
-
+    display: flex; /* Center the button within the footer */
+    align-items: center;
+    justify-content: center;
+    padding: 1rem; /* Optional: Adjust padding for spacing */
     z-index: 2;
+  }
+
+  .menu-belt {
+    visibility: hidden;
   }
 }
