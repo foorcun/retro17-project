@@ -1,0 +1,16 @@
+
+/* Navbar height and alignment */
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.navbar {
+  padding: 10px;
+  z-index: 1000;
+  background-color: #ffffff;
+}
+
+.fixed-bottom button {
+  flex: 1;
+  text-align: center;
+}

@@ -1,0 +1,45 @@
+.categories-row-wrapper {
+  display: flex;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent items from wrapping */
+  width: 100%; /* Full width of the screen */
+  padding: 1rem;
+  box-sizing: border-box; /* Include padding in the width */
+}
+
+.categories-row {
+  display: flex;
+  gap: 0.5rem; /* Space between items */
+  flex-wrap: nowrap; /* Prevent items from wrapping */
+}
+
+.category-item {
+  flex: 0 0 calc(16.66% - 0.5rem); /* Each item takes 1/6th of the container width minus the gap */
+  box-sizing: border-box; /* Include padding and border in width */
+  padding: 0.5rem;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.9rem; /* Slightly smaller font size */
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.category-item:hover {
+  background-color: #e0e0e0;
+}
+
+/* Optional: Customize scrollbar */
+.categories-row-wrapper::-webkit-scrollbar {
+  height: 8px;
+}
+
+.categories-row-wrapper::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.categories-row-wrapper::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa;
+}

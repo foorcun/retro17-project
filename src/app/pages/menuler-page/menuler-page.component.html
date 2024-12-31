@@ -1,0 +1,7 @@
+<div class="categories-row-wrapper">
+  <div class="categories-row" *ngIf="categories$ | async as categories">
+    <div class="category-item" *ngFor="let category of categories">
+      {{ category.name }}
+    </div>
+  </div>
+</div>

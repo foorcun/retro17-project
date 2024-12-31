@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "CHICKEN FINGERS",
+    "description": "Parmak patates, Panelenmiş tavuk",
+    "price": 160.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "2",
+    "name": "ELMA DİLİM PATATES",
+    "description": "",
+    "price": 110.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "3",
+    "name": "BURGERLAND",
+    "description": "Hamburger köftesi, Közlenmiş patlıcan, Közlenmiş kapya biber, Çedar peyniri, Kıvırcık marul, Domates, Turşu, Soğan halkası, Patates cips",
+    "price": 150.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "burgerler"
+  }
+]

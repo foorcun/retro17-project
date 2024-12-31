@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IconButtonComponent } from '../../common/components/icon-button/icon-button.component';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-home-page',
@@ -9,8 +10,9 @@ import { IconButtonComponent } from '../../common/components/icon-button/icon-bu
 })
 export class HomePageComponent {
 
+  constructor(private router : Router) { }
 
 handleClick(){
-  alert('Button clicked!');
+  this.router.navigate(['menuler-page']);
 }
 }
