@@ -22,5 +22,85 @@
     "price": 150.0,
     "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
     "categoryId": "burgerler"
+  },
+  {
+    "id": "4",
+    "name": "TAVUK BURGER",
+    "description": "Özel soslu tavuk köftesi, Domates, Marul, Çedar peyniri, Patates kızartması",
+    "price": 140.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "burgerler"
+  },
+  {
+    "id": "5",
+    "name": "TEXAS BURGER",
+    "description": "Burger köftesi, Jalapeno, Karamelize soğan, Barbekü sos, Çedar peyniri, Patates cips",
+    "price": 170.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "burgerler"
+  },
+  {
+    "id": "6",
+    "name": "SOĞAN HALKASI",
+    "description": "Kızartılmış çıtır soğan halkaları",
+    "price": 90.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "7",
+    "name": "PATATES TABAĞI",
+    "description": "Farklı kesim patatesler, Özel baharatlarla lezzetlendirilmiş",
+    "price": 120.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "8",
+    "name": "MOZZARELLA STICK",
+    "description": "Çıtır kaplama içinde eriyen mozzarella peynir",
+    "price": 130.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "9",
+    "name": "VEGAN BURGER",
+    "description": "Bitkisel köfte, Domates, Kıvırcık, Vegan peynir, Tam buğday ekmeği",
+    "price": 180.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "burgerler"
+  },
+  {
+    "id": "10",
+    "name": "NACHOS",
+    "description": "Tortilla cips, Jalapeno, Eritilmiş peynir sos",
+    "price": 110.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "11",
+    "name": "BBQ TAVUK",
+    "description": "Barbekü soslu, ızgarada pişmiş tavuk parçaları",
+    "price": 190.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
+  },
+  {
+    "id": "12",
+    "name": "DOUBLE CHEESEBURGER",
+    "description": "Çift burger köftesi, Çedar peyniri, Karamelize soğan, Turşu, Özel sos",
+    "price": 200.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "burgerler"
+  },
+  {
+    "id": "13",
+    "name": "ÇITIR TAVUK KANATLARI",
+    "description": "Baharatlı çıtır tavuk kanatları",
+    "price": 170.0,
+    "imageUrl": "https://static.wixstatic.com/media/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.jpg/v1/fill/w_280,h_280,q_50/1486f2_942fe3f362ad4b179cf5dfadded6f516~mv2.webp",
+    "categoryId": "atiştirmaliklar"
   }
 ]
